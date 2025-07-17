@@ -103,4 +103,13 @@
   .text-container {
     text-align: justify;
   }
+  .btn-container {
+    flex-direction: column !important;
+    align-items: stretch !important;
+    gap: 1rem;
+  }
+  .btn-container .btn {
+    width: 100%;
+    margin-bottom: 0.5rem;
+  }
 }
