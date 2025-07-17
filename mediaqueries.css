@@ -112,4 +112,17 @@
     width: 100%;
     margin-bottom: 0.5rem;
   }
+  #experience {
+    display: block !important;
+    flex-direction: column !important;
+    height: auto !important;
+    margin: 0 !important;
+  }
+  .section__text {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  .section__pic-container {
+    margin: 0 auto 1rem auto;
+  }
 }
